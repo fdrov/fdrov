@@ -1,6 +1,6 @@
-### Hi there 🐍
+#🐍
 
-- Contact me: [telegram](https://t.me/fdrov)
+* Contact me: [telegram](https://t.me/fdrov)
 
 
 <!--
